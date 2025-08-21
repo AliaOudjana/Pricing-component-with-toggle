@@ -23,13 +23,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](solution-screenshot.jpg)
 
 
 ### Links
 
 - Solution URL: https://github.com/AliaOudjana/Pricing-component-with-toggle
-- Live Site URL: 
+- Live Site URL: https://aliaoudjana.github.io/Pricing-component-with-toggle/
 
 ### Built with
 
