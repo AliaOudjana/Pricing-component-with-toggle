@@ -57,7 +57,7 @@ h1{
     margin: 0.2rem;
     border-radius: 50%;
     background-color: var(--white);
-
+    transition: 0.5s;
 }
 .toggle-area input:checked + .toggle-button::before{
     transform: translateX(1.45rem);
@@ -198,3 +198,4 @@ h1, .pricing-card h2, .pricing-card p{
     }
 
 }
+
